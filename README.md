@@ -21,5 +21,13 @@ crop statistics and rainfall data using a data warehouse approach.
 - IMD Rainfall Data
 
 ## Project Structure
-(see folder tree)
 
+### ER Diagram
+
+![OLTP ER Diagram](Crop_results/1.jpeg)
+
+![OLAP ER Diagram](Crop_results/2.jpeg)
+
+## Author
+
+Sanjay B
